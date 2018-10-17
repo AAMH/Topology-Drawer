@@ -3,9 +3,9 @@ A tool for generating the topology of a Docker cluster
 
 This program consists of two parts:
 
-  - netfilter module that gathers the connectivity information of several nodes. This data is sent to a remote node acting as the observer.
+  - Netfilter module gathers the connectivity information of several nodes, using a set of hooks inside the linux kernel. This data is sent to a remote node acting as the observer.
   
-  - java program that uses the data from the previous step to generate the topology.
+  - Java program that uses the data from the previous step to generate the topology.
   
   
 A sample output of the program:

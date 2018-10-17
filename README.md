@@ -6,5 +6,3 @@ A sample output of the program:
 <p align="center"> 
 <img src="sampleoutput.png">
 </p>
-
-![topology](./sampleoutput.png)

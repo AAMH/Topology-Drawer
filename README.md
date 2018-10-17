@@ -1,5 +1,5 @@
 # Topology-Drawer
-A tool for generating the topology of a Docker cluster
+A tool for generating the topology of a Docker cluster.
 
 This program consists of two parts:
 

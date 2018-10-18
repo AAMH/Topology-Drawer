@@ -14,4 +14,4 @@ A sample output of the program:
 <img src="sampleoutput.png">
 </p>
 
-PCs in the figure are containers connected to each other in a single docker host. IP adresses and the number of transferred packets are also shown.
+PCs in the figure are containers connected to each other in a single docker host. IP addresses and the number of transferred packets are also shown.
